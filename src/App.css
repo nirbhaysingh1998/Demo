@@ -1,5 +1,11 @@
 #root {
+<<<<<<< HEAD
   margin: 0 auto;
+=======
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+>>>>>>> demo2
   text-align: center;
 }
 
