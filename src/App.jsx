@@ -11,7 +11,7 @@ function App() {
         className="object-cover object-center w-full rounded-lg h-96" src={manja}
         alt="nature image"
       />
-      <div className='mt-2'>
+      <div className='mt-2 mx-2'>
       <button className='  px-5 mr-2 rounded-md bg-white shadow-md hover:shadow-lg hover:shadow-gray-600 focus:outline-none'> <h3>Yes</h3></button>
       <button className=' mx-2 px-5 rounded-md bg-white shadow-md hover:shadow-lg hover:shadow-gray-600 focus:outline-none'> <h3>No</h3></button>
     </div>
